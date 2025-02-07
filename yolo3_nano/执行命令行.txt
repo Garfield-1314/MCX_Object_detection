@@ -1,0 +1,6 @@
+pip install -r .\requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+python .\voc_convertor.py
+python .\kmeans.py
+python .\train.py
+python .\evaluate.py
+python detect.py -model yolo3_nano_final.tflite -image test.jpg
