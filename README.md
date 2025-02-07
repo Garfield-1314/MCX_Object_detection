@@ -10,3 +10,6 @@ MCX_Vision_Object_detection
 # 代码运行顺序：voc_convertor.py
 #              kmeans.py
 #              train.py
+
+
+# config.cfg文件中可修改模型参数和文件夹路径
