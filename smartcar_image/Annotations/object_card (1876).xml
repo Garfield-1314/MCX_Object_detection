@@ -1,0 +1,39 @@
+<annotation>
+    <folder>object_card2</folder>
+    <filename>object_card (1876).jpg</filename>
+    <path>C:\Users\Administrator\Desktop\object_card2\object_card (1876).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>160</width>
+        <height>120</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+	<object>
+        <name>object</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>43</xmin>
+            <ymin>17</ymin>
+            <xmax>56</xmax>
+            <ymax>23</ymax>
+        </bndbox>
+    </object>    
+	<object>
+        <name>object</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>10</xmin>
+            <ymin>90</ymin>
+            <xmax>9</xmax>
+            <ymax>108</ymax>
+        </bndbox>
+    </object>
+</annotation>

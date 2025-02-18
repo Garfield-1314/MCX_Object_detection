@@ -1,0 +1,39 @@
+<annotation>
+    <folder>object_card</folder>
+    <filename>object_card (2554).jpg</filename>
+    <path>E:\AI19\object_file\label_img\object_card\object_card (2554).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>160</width>
+        <height>120</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+	<object>
+        <name>object</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>138</xmin>
+            <ymin>62</ymin>
+            <xmax>159</xmax>
+            <ymax>93</ymax>
+        </bndbox>
+    </object>    
+	<object>
+        <name>object</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>87</xmin>
+            <ymin>18</ymin>
+            <xmax>108</xmax>
+            <ymax>25</ymax>
+        </bndbox>
+    </object>
+</annotation>
